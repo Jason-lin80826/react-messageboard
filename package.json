@@ -1,6 +1,6 @@
 {
-  "name": "hello-react",
-  "homepage": "https:/Jason-lin80826.github.io/react-messageboard",
+  "name": "react-messageboard",
+  "homepage": "http:/Jason-lin80826.github.io/react-messageboard",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
