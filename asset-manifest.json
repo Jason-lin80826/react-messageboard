@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Jason-lin80826.github.io/react-messageboard/static/css/main.ca3e1e3e.chunk.css",
-    "main.js": "/Jason-lin80826.github.io/react-messageboard/static/js/main.54d954c2.chunk.js",
-    "main.js.map": "/Jason-lin80826.github.io/react-messageboard/static/js/main.54d954c2.chunk.js.map",
-    "runtime-main.js": "/Jason-lin80826.github.io/react-messageboard/static/js/runtime-main.c5b7797c.js",
-    "runtime-main.js.map": "/Jason-lin80826.github.io/react-messageboard/static/js/runtime-main.c5b7797c.js.map",
-    "static/js/2.23117536.chunk.js": "/Jason-lin80826.github.io/react-messageboard/static/js/2.23117536.chunk.js",
-    "static/js/2.23117536.chunk.js.map": "/Jason-lin80826.github.io/react-messageboard/static/js/2.23117536.chunk.js.map",
-    "index.html": "/Jason-lin80826.github.io/react-messageboard/index.html",
-    "static/css/main.ca3e1e3e.chunk.css.map": "/Jason-lin80826.github.io/react-messageboard/static/css/main.ca3e1e3e.chunk.css.map",
-    "static/js/2.23117536.chunk.js.LICENSE.txt": "/Jason-lin80826.github.io/react-messageboard/static/js/2.23117536.chunk.js.LICENSE.txt"
+    "main.css": "/react-messageboard/static/css/main.ca3e1e3e.chunk.css",
+    "main.js": "/react-messageboard/static/js/main.7e58797a.chunk.js",
+    "main.js.map": "/react-messageboard/static/js/main.7e58797a.chunk.js.map",
+    "runtime-main.js": "/react-messageboard/static/js/runtime-main.331ec688.js",
+    "runtime-main.js.map": "/react-messageboard/static/js/runtime-main.331ec688.js.map",
+    "static/js/2.c30d0243.chunk.js": "/react-messageboard/static/js/2.c30d0243.chunk.js",
+    "static/js/2.c30d0243.chunk.js.map": "/react-messageboard/static/js/2.c30d0243.chunk.js.map",
+    "index.html": "/react-messageboard/index.html",
+    "static/css/main.ca3e1e3e.chunk.css.map": "/react-messageboard/static/css/main.ca3e1e3e.chunk.css.map",
+    "static/js/2.c30d0243.chunk.js.LICENSE.txt": "/react-messageboard/static/js/2.c30d0243.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5b7797c.js",
-    "static/js/2.23117536.chunk.js",
+    "static/js/runtime-main.331ec688.js",
+    "static/js/2.c30d0243.chunk.js",
     "static/css/main.ca3e1e3e.chunk.css",
-    "static/js/main.54d954c2.chunk.js"
+    "static/js/main.7e58797a.chunk.js"
   ]
 }
